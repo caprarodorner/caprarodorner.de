@@ -1,2 +1,2 @@
 # caprarodorner.de
-Capraro Dorner Website
+This repository contains static HTML files that are served as the caprarodorner.de-website.
