@@ -50,3 +50,18 @@ p.teaser-bottom {
 p.teaser-bottom a {
   color: #BBBBBB;
 }
+
+.info-box {
+  margin: 20px;
+  background-color: #0ea5e9;
+  border-radius: 4px;
+  border: 1px solid #CCCCCC;
+  padding: 20px;
+  color: #FFFFFF;
+  font-size: larger;
+}
+
+.info-box a {
+  color: #FFFFFF;
+  font-weight: 700;
+}
