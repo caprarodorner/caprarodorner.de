@@ -6,7 +6,7 @@
 }
 
 a:link, a:hover, a:active, a:visited {
-    color: #0ea5e9;
+    color: #35A8E0;
 }
 
 .centered {
@@ -53,15 +53,19 @@ p.teaser-bottom a {
 
 .info-box {
   margin: 20px;
-  background-color: #0ea5e9;
+  background-color: #35A8E0;
   border-radius: 4px;
   border: 1px solid #CCCCCC;
   padding: 20px;
   color: #FFFFFF;
-  font-size: larger;
+  text-align: center;
 }
 
 .info-box a {
   color: #FFFFFF;
   font-weight: 700;
+}
+
+.info-box img {
+  width: 30%;
 }
