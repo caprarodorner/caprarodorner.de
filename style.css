@@ -39,3 +39,15 @@ p {
 p.teaser {
   text-align: center;
 }
+
+.imprint-header {
+  margin: 3rem;
+  text-align: center;
+
+  font-weight: lighter;
+  font-size: larger;
+}
+
+.imprint-header emph {
+  font-weight: 300;
+}
